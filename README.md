@@ -1,4 +1,4 @@
-# Title: A Deep Learning Method to Integrate extra-celluar miRNA with mRNA for cancer studies
+# Title: A Deep Learning Method to Integrate extra-cellular miRNA with mRNA for cancer studies
 
 ## Initial Environment Setup (Python, R)
 
